@@ -1,2 +1,4 @@
-# eta-animated-portfolio
-Personal Portfolio website using ReactJS,ThreeJS,Motion
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
